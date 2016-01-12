@@ -232,6 +232,10 @@ hr.small {
     }
 }
 
+.profilepic {
+    border-radius: 100%;
+}
+
 /*disable custom maps scrolling behaviour*/
 .scrolloff {
     pointer-events: none;
